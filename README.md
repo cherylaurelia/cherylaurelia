@@ -1,3 +1,5 @@
-## hello, world!
+# hi! 👋
 
-hi! im cheryl, a junior in high school, will be editing this soon :)
+i'm Cheryl, currently a high school junior, and trying to build fun projects :) feel free to reach out!
+
+![mona p5 gif](https://github.com/cherylaurelia/cherylaurelia/blob/main/mona.gif?raw=true)
