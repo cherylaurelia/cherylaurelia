@@ -1,6 +1,6 @@
 # hi
 
-i'm cheryl and i'm trying to build fun projects :)
+i like to code
 
 ![Views Badge](https://komarev.com/ghpvc/?username=cherylaurelia&label=Profile%20views&color=0e75b6&style=flat)
 
