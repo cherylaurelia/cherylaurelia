@@ -1,8 +1,4 @@
-# hi
-
 i study cs @ [university of waterloo](https://uwaterloo.ca)
-
-# links
 
 [website](https://cherylaurelia.com) | [twitter](https://x.com/cherylaureliawu) | [linkedin](https://linkedin.com/in/cheryl-aurelia) 
 
