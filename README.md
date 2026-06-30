@@ -1,6 +1,6 @@
 # hi
 
-cs @ [university of waterloo](https://uwaterloo.ca)
+i study cs @ [university of waterloo](https://uwaterloo.ca)
 
 # links
 
