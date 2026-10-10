@@ -2,5 +2,5 @@
 
 [website](https://cherylaurelia.com) | [twitter](https://x.com/cherylaureliawu) | [linkedin](https://linkedin.com/in/cheryl-aurelia) 
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=cherylaurelia.cherylaurelia)
+![Views Badge](https://komarev.com/ghpvc/?username=cherylaurelia&color=0e75b6&style=flat&label=Profile%20views)
 
