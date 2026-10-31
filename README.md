@@ -1,6 +1,6 @@
 16. cs @ [university of waterloo](https://uwaterloo.ca)
 
-[website](https://cherylaurelia.com) | [twitter](https://x.com/cherylaureliawu) | [linkedin](https://linkedin.com/in/cheryl-aurelia) 
+[website](https://cherylaurelia.com) | [x](https://x.com/cherylaureliawu) | [linkedin](https://linkedin.com/in/cheryl-aurelia) 
 
 ![](https://komarev.com/ghpvc/?username=cherylaurelia&color=0e75b6&style=flat&label=Profile%20views)
 
