@@ -1,4 +1,4 @@
-16. cs @ [university of waterloo](https://uwaterloo.ca)
+17. cs @ [university of waterloo](https://uwaterloo.ca)
 
 [website](https://cherylaurelia.com) | [x](https://x.com/cherylaureliawu) | [linkedin](https://linkedin.com/in/cheryl-aurelia) 
 
